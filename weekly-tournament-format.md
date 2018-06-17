@@ -51,6 +51,7 @@ The Final round is in a 3-game | Group-Elimination / PAPA Finals format.\
 
 The number of players in the finals will be determined based on the number of players in the overall (qualifying) tournament:
 
+
 |# in Tourney | no in Finals|
 | ------------ | ----------- |
 |<25 | 8
@@ -74,11 +75,8 @@ There are times when tournaments will be sponsored, which money is donated to th
 
 The following is the payout percentages based on the number of players submitted:
 
-|  | | | |  Number of Players | | | |
-| --- | --- | --- | --- | ---: | --- | --- | --- |
-
 | Place | <23 | 24-31 | 32-47 | 48 - 64 |
-| ----- | --- | ----- | ----- | ------- |
+| :----- | --- | ----- | ----- | ------- |
 | 1st | 40% | 30% | 30% | 25% |
 | 2nd | 30% | 25% | 25% | 20% |
 | 3rd | 20% | 20% | 15% | 15% |
@@ -86,6 +84,7 @@ The following is the payout percentages based on the number of players submitted
 | 5th-6th | | 5% | 5% | 5% |
 | 7th-8th | | | 5% | 5% |
 | 9th-12th | | | | 2.5% |
+
 **If there is money donated to the prize pool, all finalists will have their tournament entry ($5 refunded)**
 
 ## IFPA submission
@@ -96,8 +95,9 @@ Per the WPPR 5.3, TGP can be calculated:
 
 
 Finals: Using the PAPA Matchplay Finals format, the dumbed down TGP for finals is:
+
 | #of finalists | Meaningful Games | TGP % |
-| --- | --- | -- |
+| :--- | --- | -- |
 | 8 | 12 | 48% |
 | 12 | 18 | 72% |
 | 16 | 18 | 72% |
