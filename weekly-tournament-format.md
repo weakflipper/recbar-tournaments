@@ -55,6 +55,7 @@ The Final round is in a 3-game | Group-Elimination / PAPA Finals format.
 
 The number of players in the finals will be determined based on the number of players in the overall (qualifying) tournament:
 
+
 |# in Tourney | no in Finals|
 | ------------ | ----------- |
 |<25 | 8
@@ -79,11 +80,8 @@ There are times when tournaments will be sponsored, which money is donated to th
 
 The following is the payout percentages based on the number of players submitted:
 
-|  | | | |  Number of Players | | | |
-| --- | --- | --- | --- | ---: | --- | --- | --- |
-
 | Place | <23 | 24-31 | 32-47 | 48 - 64 |
-| ----- | --- | ----- | ----- | ------- |
+| :----- | --- | ----- | ----- | ------- |
 | 1st | 40% | 30% | 30% | 25% |
 | 2nd | 30% | 25% | 25% | 20% |
 | 3rd | 20% | 20% | 15% | 15% |
@@ -91,6 +89,7 @@ The following is the payout percentages based on the number of players submitted
 | 5th-6th | | 5% | 5% | 5% |
 | 7th-8th | | | 5% | 5% |
 | 9th-12th | | | | 2.5% |
+
 **If there is money donated to the prize pool, all finalists will have their tournament entry ($5 refunded)**
 
 ## IFPA submission
@@ -103,7 +102,7 @@ Per the WPPR 5.3, TGP can be calculated:
 Finals: Using the PAPA Matchplay Finals format, the dumbed down TGP for finals is:
 
 | #of finalists | Meaningful Games | TGP % |
-| --- | --- | -- |
+| :--- | --- | -- |
 | 8 | 12 | 48% |
 | 12 | 18 | 72% |
 | 16 | 18 | 72% |
@@ -129,7 +128,10 @@ This is under the discretion of the Tournament Director.
 # Official / Legal crap
 This write-up is to the best my knowledge and there could well be some typos. The #1 goal is to have fun! It is possible that the rules have changed from what is posted here by the tournament director, which the tournament director takes the precedence.\
 If you have an issue with the tournament (game goes down, don't like the draw, etc..), there is only so much that can be done.
+<<<<<<< HEAD
 
 New players added must be notified to the Tournament Director before the round they play in has begun. This is to ensure that the fees have been collected so that payouts can be accurately determined.
 
 Games that are taken out from a round will not be put back in to another round, unless the game has been thoroughly tested. Games can only be put back into the tournament by the tournament director.
+=======
+>>>>>>> bb3e0b3a7a9149f6c762213e338fdb7e53ae804e
