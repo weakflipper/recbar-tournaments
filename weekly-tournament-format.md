@@ -69,7 +69,10 @@ The number of players in the finals will be determined based on the number of pl
 Finalists will be paired into four player groups.
 Each round will consist of 3 games.
 
-The seedings in each group will dictate which player chooses order. The player with the highest seed (listed at the top) will choose what position they want to go on the game, followed by the second player etc. The order of how the players finish on that game will be used for the choice order for the next game, etc.
+Choice of position for game 1 will go to the highest seeded player within that group based on the standings entering that session, second choice will go to the 2nd highest seeded player, third choice will go to the 3rd highest seeded player and the lowest seeded player will have the remaining choice. 
+
+In subsequent games, the player finishing in 4th place will have choice of position for Game 2. The player finishing in 3rd place will have 2nd choice of position. The player finishing in 2nd place will have 3rd choice of position. The player finishing in 1st place will have the remaining position.
+
 
 Same point system (7/5/3/1) for 4-player or (7/4/1) for 3-player will be used.\
 Top two players in each group advances to the next round.
