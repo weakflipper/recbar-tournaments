@@ -7,14 +7,16 @@ Registration starts at 5:30pm est.
 # Where
 Recbar
 10301 Taylorsville Rd, Jeffersontown, KY 40299
-Louisville, KY 
+Louisville, KY
 
 # Overview
 ## Registration
- Once the entry fee is collected, the person will be registered as a player. Once all players are registered, shortly after the start time (6pm), the qualifying rounds will begin.
+ Once the entry fee is collected, the person will be registered as a player. Qualifying rounds will be begin shortly after the start time (6pm).
+
+New players can join the tournament as long as it is before the last qualifying round, and the new player pays in exact change $5.00. The new player will then be added to the next round in the qualifying tournament by the Tournament Director.
 
 ## Qualifying Rounds
-The qualifying rounds are in Group Matchplay format. Players are grouped (player pairing) into four and are asssigned a machine to play. If there is a number of players not divisble by four, then a three player game will be held.
+The qualifying rounds are in Group Matchplay format. Players are grouped (player pairing) into four and are assigned a machine to play. If there is a number of players not divisible by four, then a three player game will be held.
 
 ### Player pairing
 Players are grouped together in a "Balanced" setting, where "Players will be randomly paired with previously unfaced opponents" in the given round.
@@ -34,12 +36,14 @@ Three player games will have:\
 Once all games have been completed in the current round, the round will be closed. If the time is still prior to 8pm, then a new round will begin.
 
 ### End of Qualifying Rounds
-Typically the last round will be right after 8pm, however under the discretion of the tournament director, one more round may be completed. This is to allow for the most IFPA points to be awarded to the weekly tournament as possible.
+Typically the last round will be right after 8pm, however under the discretion of the tournament director, one more round may be completed. This is to allow for the most IFPA points to be awarded to the weekly tournament as possible and/or if the tournament began late for some reason.
 
-Upon the last qualifying round, a determination of whether a playoff needs to occur for any ties for last place into the finals. 
+Upon the last qualifying round, a determination of whether a playoff needs to occur for any ties for last place into the finals.
 
 ### Ties for finals qualifying
-If there is a tie amongst players for qualifying into the final round, a one game playoff will be started amongst the ties. The game chosen will be random among all games. 
+Ties will be automatically broken based on the number of First and Second place finishes by the players that are tied. If there is still a tie amongst players for some reason, then a one game playoff will be started amongst the ties as followed:
+
+The game chosen will be random among all games.
 
 If there are more than four players in the tie, then a playoff will occur with the number of players being balanced amongst the minimal amount of machines. Examples:\
 7 players = Game A: 4 players, Game B: 3 players\
@@ -47,7 +51,7 @@ If there are more than four players in the tie, then a playoff will occur with t
 Top winner will proceed to the finals. If there were multiple matches, the winners of the matches will play on one random game.
 
 ## Final Rounds
-The Final round is in a 3-game | Group-Elimination / PAPA Finals format.\
+The Final round is in a 3-game | Group-Elimination / PAPA Finals format.
 
 The number of players in the finals will be determined based on the number of players in the overall (qualifying) tournament:
 
@@ -61,9 +65,10 @@ The number of players in the finals will be determined based on the number of pl
 |65-128|32|
 |129-256|64|
 
-
 Finalists will be paired into four player groups.
 Each round will consist of 3 games.
+
+The seedings in each group will dictate which player chooses order. The player with the highest seed (listed at the top) will choose what position they want to go on the game, followed by the second player etc. The order of how the players finish on that game will be used for the choice order for the next game, etc.
 
 Same point system (7/5/3/1) for 4-player or (7/4/1) for 3-player will be used.\
 Top two players in each group advances to the next round.
@@ -96,6 +101,7 @@ Per the WPPR 5.3, TGP can be calculated:
 
 
 Finals: Using the PAPA Matchplay Finals format, the dumbed down TGP for finals is:
+
 | #of finalists | Meaningful Games | TGP % |
 | --- | --- | -- |
 | 8 | 12 | 48% |
@@ -111,7 +117,19 @@ Qualifying TGP% = (number of rounds played (aka games played) X 2) X .04
 
 **Thus, the total TGP will be close to 100% if there were 6 rounds of games in Qualifying with a finals of at least 12 people.**
 
+# Games Used
+In a world where all games work 100% and are perfect for tournament play...this doesn't exist.
+
+Games used will be determined to the best of the knowledge of each game based upon if it is considered "fair" for tournament play, as well as the condition of the game.
+
+A game with a known major malfunction will not be in the tournament. If for some reason a game is in the tournament, but fails on the next round, the game will be taken out from the tournament and will not be reused.
+
+This is under the discretion of the Tournament Director.
 
 # Official / Legal crap
 This write-up is to the best my knowledge and there could well be some typos. The #1 goal is to have fun! It is possible that the rules have changed from what is posted here by the tournament director, which the tournament director takes the precedence.\
 If you have an issue with the tournament (game goes down, don't like the draw, etc..), there is only so much that can be done.
+
+New players added must be notified to the Tournament Director before the round they play in has begun. This is to ensure that the fees have been collected so that payouts can be accurately determined.
+
+Games that are taken out from a round will not be put back in to another round, unless the game has been thoroughly tested. Games can only be put back into the tournament by the tournament director.
