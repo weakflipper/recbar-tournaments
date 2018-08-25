@@ -44,7 +44,7 @@ Upon the last qualifying round, tiebreaking rules will be used to determine fina
 Ties will be automatically broken based on the number of First and Second place finishes by the players that are tied. If there is still a tie amongst players for some reason, then additional steps will be taken to determine final position.
 
 #### Ties for finals qualifying - finals entries and byes
-For determining finals entry or byes, a one game playoff will be started amongst tie groups as followed:
+For determining finals entry or byes, a one game playoff will be started amongst tie groups.
 
 The game chosen will be random among all games.
 
@@ -64,13 +64,13 @@ The number of players in the finals will be determined based on the number of pl
 
 |# in Tourney | no in Finals|
 | ------------ | ----------- |
-|<25 | 8
-|25-32 | 12 (Top 4 receive a bye)|
-|33-48 | 16|
-|49-56|24 (Top 8 receive a bye)|
-|57-64|28 (Top 4 receive a bye)|
-|65-128|32|
-|129-256|64|
+|<24 | 8
+|24-31 | 12 (Top 4 receive a bye)|
+|32-47 | 16|
+|48-55|24 (Top 8 receive a bye)|
+|56-63|28 (Top 4 receive a bye)|
+|64-127|32|
+|128 and up|64|
 
 Finalists will be paired into four player groups.
 Each round will consist of 3 games.
